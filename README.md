@@ -1,5 +1,4 @@
 # Covid Contact Tracing
-## By: Avi Fischer and Sudarshan Maramganty
 This is a contact tracing program that stores information about contacts the people during the coronavirus pandmeic. It stores these contacts in graphs and stores information about where they occured, when they occured and wether or not the people involved are positive for coronavirus.
 
 # How to Run
