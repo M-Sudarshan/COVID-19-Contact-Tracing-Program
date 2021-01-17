@@ -1,0 +1,7 @@
+﻿# Sudarshan Maramganty 20837062
+# Avi Fischer 20836726
+0001,Avi,0,03/08/2020,
+0002,Sudarshan,0,03/08/2020,0001,2,park,
+0003,Igor,0,03/08/2020,0002,5,park,0001,1,park,
+0004,Johnny,1,05/12/2020,0003,7,restaurant,
+0005,Snoop,0,06/16/2020,0002,1,park,
